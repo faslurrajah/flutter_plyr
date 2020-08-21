@@ -1,3 +1,9 @@
+
+//Author rajafaslur@gmail.com
+// Faslu Rajan
+// Undergraduate of Department of Computer Engineering
+// University of Jaffna
+
 import 'package:flutter/material.dart';
 import 'package:flutter_plyr/flutter_plyr.dart';
 
