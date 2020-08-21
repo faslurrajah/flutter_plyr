@@ -17,3 +17,4 @@ class PlyrVideoPlayer extends StatelessWidget {
     );
   }
 }
+
