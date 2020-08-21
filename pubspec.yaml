@@ -1,7 +1,6 @@
 name: flutter_plyr
 description: simple plyr for play youtube inline. This is most stable and less control than other available packages.
 version: 0.0.3
-author: Faslu Rajan <rajafaslur@gmail.com>
 homepage: https://github.com/faslurrajah/flutter_plyr
 
 environment:
