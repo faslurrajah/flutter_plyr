@@ -2,7 +2,7 @@ name: flutter_plyr
 description: simple plyr for play youtube and vimeo videos inline
 version: 0.0.1
 author: Faslu Rajan <rajafaslur@gmail.com>
-homepage:
+homepage: https://github.com/faslurrajah/flutter_plyr
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
